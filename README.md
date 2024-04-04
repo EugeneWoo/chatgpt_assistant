@@ -1,2 +1,2 @@
-# chatgpt_assistant
+# ChatGPT Assistant
 ChatGPT Assistant created on Langchain
